@@ -16,7 +16,7 @@ Para rodar os exercícios em **Java 8+** em uma IDE (como IntelliJ IDEA, Eclipse
 
 - Clone o repositório usando o comando Git abaixo, ou baixe o código como arquivo ZIP e extraia-o em seu computador.
 ```bash
-git clone https://github.com/lrsanttos-dev/lp-java-2024.git
+git clone https://github.com/lrsanttos-dev/POO-Java.git
 ```
 
 **Abra a IDE**:
